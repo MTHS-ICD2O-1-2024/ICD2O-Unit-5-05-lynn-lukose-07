@@ -28,6 +28,7 @@ function classify() {
     (180 / Math.PI)
 
   //process for angle sum
+
   const sumOfAngles =
     Number(angleA.toFixed(2)) +
     Number(angleB.toFixed(2)) +
